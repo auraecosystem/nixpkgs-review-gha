@@ -1,4 +1,4 @@
-name: setup-nix
+name: setup-nixOS
 description: set up Nix
 
 inputs:
